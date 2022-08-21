@@ -1,0 +1,60 @@
+
+span {
+   
+    color: #3a8e34;
+}
+h4 {
+    display: flex;
+    font-size: 20px;
+    margin-top: 1px;
+
+}
+
+.addBtn {
+    
+    height: 35px;
+    /* background-color: #eee6d8db; */
+    border: none;
+    background-color: #ede2ce00;
+    margin-top: 6px;
+}
+
+.newMovie{
+    background-color: #ede2cedb;
+    margin-top: 30px;
+    display: flex;
+    text-align: center;
+    margin-left: 158px;
+    margin-right: 100px;
+    /* margin-bottom: 30px; */
+    /* border-radius: 30%; */
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    border-top: 1px solid;
+    border-bottom: none;
+
+}
+.ANM {
+    
+   
+    margin-left:460px;
+    margin-right: 460px;
+    border-radius: 9%;
+    font-size: 22px;
+}
+
+.modalInput {
+
+  
+    
+    padding: 25px;
+    border-radius: 10%;
+    margin-right: 6px;
+    margin-top: 6px;
+    border: 1px saddlebrown;
+}
+
+.btnf {
+    display: flex;
+    justify-content: space-around;
+}
